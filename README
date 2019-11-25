@@ -1,0 +1,26 @@
+ login: seanco
+===============================================================================
+Sean Choen, shon.choen@mail.huji.ac.il, 203666425
+===============================================================================
+
+                           CBIO - EX2 - MOTIF FINDING
+                           ---------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+
+Python Files:
+TCM_EM.py
+Motif_viterbi.py
+Report.pdf
+motif1.txt
+History.tab
+
+
+Remarks:
+-------------------
+- The forward and backward algorithms are implemented at the TCM_EM file.
+- The countWord function is implemented in the TCM_EM file with few changes.
+
